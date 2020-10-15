@@ -1,0 +1,22 @@
+{
+	"name": "typeasy",
+	"version": "1.0.0",
+	"description": "用于判断类型的工具库",
+	"main": "index.js",
+	"directories": {
+		"lib": "lib"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/inlym/typeasy.git"
+	},
+	"author": "inlym",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/inlym/typeasy/issues"
+	},
+	"homepage": "https://github.com/inlym/typeasy#readme"
+}
